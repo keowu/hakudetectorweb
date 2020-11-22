@@ -8,7 +8,7 @@ class HakuDetector extends React.Component{
             <div>
             <div className="hakucontainerwebdonw">
                 <div className="hakudetectorchild">
-                    <h1>HAKUDETECTOR PROJECT v1.0.6.50-DEV - RELEASE</h1>
+                    <h1>HAKUDETECTOR PROJECT v1.0.6.71-DEV - RELEASE FROM 22/11/2020</h1>
                 </div>
                 <div className="hakudetectorchild">
                     <img src={hakupicture} title="Icon" alt="HAKUICON" />
@@ -45,7 +45,7 @@ class HakuDetector extends React.Component{
                 </div>
                 <div className="list">
                     <ul>
-                            <li><a href="https://github.com/keowu/hakudetector/releases/download/v1.0.6.50-DEV/HakuDetectorRelease.zip">Download</a></li>
+                            <li><a href="https://github.com/keowu/hakudetector/releases/download/v1.0.6.71-DEV/HakuDetectorRelease.zip">Download</a></li>
                             <li><a href="https://github.com/keowu/hakudetector">Github</a></li>
                     </ul>
                 </div>
